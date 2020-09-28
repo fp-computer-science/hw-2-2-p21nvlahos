@@ -1,0 +1,3 @@
+Since the points for each basket are constant, you don't have to set those equal to variables.
+
+Your print statement should print the total point value of all baskets scored.
